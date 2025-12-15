@@ -1,0 +1,3 @@
+fun typo() {
+  prentln("Oops")
+}
